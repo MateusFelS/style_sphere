@@ -1,4 +1,4 @@
-# 👨🏻‍🍳 StyleSphere - Site de Vendas de Roupa e Produtos de Beleza
+# 👔 StyleSphere - Site de Vendas de Roupa e Produtos de Beleza
 ### O StyleSphere é um site de vendas de roupas e produtos de beleza vendido como freelance para uma cliente que atua no ramo varejista a mais de um ano.
  
 ## 💻 Web Site
