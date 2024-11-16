@@ -6,7 +6,6 @@ O StyleSphere é um site de vendas desenvolvido como um projeto freelance para u
 - [Objetivo](#objetivo)
 - [Funcionalidades Testadas](#funcionalidades-testadas)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Link do Projeto](#link-do-projeto)
 
 ## Objetivo
